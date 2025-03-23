@@ -13,6 +13,8 @@ A comprehensive visitor management solution with QR code-based Visit tracking an
 ![Screenshot 5](AS5.png)
 ![Screenshot 6](AS6.png)
 ![Screenshot 7](AS7.png)
+![Screenshot 8](AS8.png)
+![Screenshot 9](AS9.png)
 
 ## Features
 
