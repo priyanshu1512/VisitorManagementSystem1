@@ -6,7 +6,14 @@
 
 A comprehensive visitor management solution with QR code-based Visit tracking and digital record-keeping.
 
-![Application Screenshot](image.png)
+![Screenshot 1](AS1.png)
+![Screenshot 2](AS2.png)
+![Screenshot 3](AS3.png)
+![Screenshot 4](AS4.png)
+![Screenshot 5](AS5.png)
+![Screenshot 6](AS6.png)
+![Screenshot 7](AS7.png)
+
 ## Features
 
 ### 🛡️ Secure Login
